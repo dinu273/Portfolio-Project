@@ -8,6 +8,12 @@ body {
   padding-left: 15%;
 }
 
+.map{
+	padding-left: 700px;
+	margin-top: -190px;
+}
+
+
 
   .cardbca:hover{
 	color:#730cd4;
@@ -167,7 +173,7 @@ body {
 	box-shadow: 0 16px 22px -17px #03153B;
 	color: #fff;
 	cursor: pointer;
-	font-size: 16px;
+	font-size: 25px;
 	line-height: 20px;
 	padding: 12px 20px;
 	position: fixed;
